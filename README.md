@@ -11,7 +11,7 @@
 
 ---
 ### Решение 1. Установка RabbitMQ
-[image](https://github.com/sash3939/RabbitMQ/assets/156709540/b5a23b68-f34e-4b8f-a7a5-f642265f6328)
+[rabbit](https://github.com/sash3939/RabbitMQ/assets/156709540/b5a23b68-f34e-4b8f-a7a5-f642265f6328)
 
 ---
 ### Задание 2. Отправка и получение сообщений
