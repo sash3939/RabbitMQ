@@ -34,10 +34,12 @@ $ pip install pika
 Для закрепления материала можете попробовать модифицировать скрипты, чтобы поменять название очереди и отправляемое сообщение.
 
 ---
+### Решение 2. Отправка и получение сообщений
 [hello](https://github.com/sash3939/RabbitMQ/assets/156709540/951f24c2-6939-4cdc-9cf3-1898c16ac239)
 [get message](https://github.com/sash3939/RabbitMQ/assets/156709540/6d2d58c2-a994-4ae9-9bca-355eef97f1a7)
 [consumer](https://github.com/sash3939/RabbitMQ/assets/156709540/9a98aaa3-17e8-4fc0-9fa7-eb5790f1dd1a)
-
+[other name queue and message](https://github.com/sash3939/RabbitMQ/assets/156709540/ccddb28f-ca52-4521-8a90-93ae8fa75ce4)
+---
 
 ### Задание 3. Подготовка HA кластера
 
