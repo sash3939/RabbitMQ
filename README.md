@@ -1,4 +1,4 @@
-![image](https://github.com/sash3939/RabbitMQ/assets/156709540/f60259c4-a52d-4d9f-be95-3fd0e5154ef4)# Домашнее задание к занятию  «Очереди RabbitMQ»
+# Домашнее задание к занятию  «Очереди RabbitMQ»
 
 ---
 
