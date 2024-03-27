@@ -99,7 +99,8 @@ $ rabbitmqadmin get queue='hello'
 *Готовый плейбук разместите в своём репозитории.*
 ### * Решение 4. Ansible playbook
 
-Playbook разместил
+[playbook](https://github.com/sash3939/RabbitMQ/assets/156709540/259da21d-f354-4576-84c9-6879a7fb2884)
+
 
 ---
 
