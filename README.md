@@ -1,4 +1,4 @@
-# Домашнее задание к занятию  «Очереди RabbitMQ»
+![image](https://github.com/sash3939/RabbitMQ/assets/156709540/f60259c4-a52d-4d9f-be95-3fd0e5154ef4)# Домашнее задание к занятию  «Очереди RabbitMQ»
 
 ---
 
@@ -78,6 +78,12 @@ $ rabbitmqadmin get queue='hello'
 [policy-web](https://github.com/sash3939/RabbitMQ/assets/156709540/e689e9b4-9582-425a-a915-20bc6a7a505d)
 [cluster-cli](https://github.com/sash3939/RabbitMQ/assets/156709540/fc5c5dc2-4706-4e40-b4fb-8bcb4b540a21)
 [cluster-web](https://github.com/sash3939/RabbitMQ/assets/156709540/7108f24c-3384-41d2-a09b-557f338ec2ae)
+[cluster_status rabbitmq1](https://github.com/sash3939/RabbitMQ/assets/156709540/74785429-7805-40d8-93d3-905b098a3de6)
+[cluster_status rabbitmq2](https://github.com/sash3939/RabbitMQ/assets/156709540/b6c9153c-16a9-4a30-ac7f-8b8a9af1cfe0)
+[cluster_status rabbitmq3](https://github.com/sash3939/RabbitMQ/assets/156709540/4899bcb7-bfd8-48b5-b645-2bfb07510e6e)
+
+
+
 
 
 ## Дополнительные задания (со звёздочкой*)
