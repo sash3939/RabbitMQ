@@ -82,6 +82,8 @@ $ rabbitmqadmin get queue='hello'
 [cluster_status rabbitmq2](https://github.com/sash3939/RabbitMQ/assets/156709540/b6c9153c-16a9-4a30-ac7f-8b8a9af1cfe0)
 [cluster_status rabbitmq3](https://github.com/sash3939/RabbitMQ/assets/156709540/4899bcb7-bfd8-48b5-b645-2bfb07510e6e)
 
+сообщения получаются, но в cli нет доступа к API Management, права по умолчанию. В целом функционал HA работает 
+[hello](https://github.com/sash3939/RabbitMQ/assets/156709540/293ebbf0-f601-4ae3-bf05-dd78fb40595f)
 
 
 
