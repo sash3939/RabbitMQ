@@ -102,34 +102,6 @@ $ rabbitmqadmin get queue='hello'
 Playbook разместил
 
 ---
-- name: Установка RabbitMQ и настройка кластера
-  hosts: rabbitmq_nodes
-  become: true
-  vars:
-    rabbitmq_cookie: "MYSECRETCOOKIE"  # Задайте секретный cookie для Erlang
-  tasks:
-    - name: Установка RabbitMQ
-      apt:
-        name: rabbitmq-server
-        state: present
-
-    - name: Создание кластера RabbitMQ
-      command: rabbitmqctl stop_app
-      ignore_errors: yes
-
-    - name: Задание cookie для Erlang
-      command: echo "{{ rabbitmq_cookie }}" > /var/lib/rabbitmq/.erlang.cookie
-      ignore_errors: yes
-
-    - name: Установка прав для cookie Erlang
-      command: chmod 400 /var/lib/rabbitmq/.erlang.cookie
-
-    - name: Присоединение к кластеру RabbitMQ
-      command: rabbitmqctl join_cluster rabbit@{{ ansible_hostname }}
-      ignore_errors: yes
-
-    - name: Запуск приложения RabbitMQ
-      command: rabbitmqctl start_app
 
     - name: Создание политики ha-all
       command: rabbitmqctl set_policy ha-all "" '{"ha-mode":"all"}'
