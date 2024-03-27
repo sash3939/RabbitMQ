@@ -74,6 +74,11 @@ $ rabbitmqadmin get queue='hello'
 
 *Приложите скриншот результата работы второго скрипта.*
 
+[policy-cli](https://github.com/sash3939/RabbitMQ/assets/156709540/13831118-ac0d-401f-a79d-e0db59eb8ee3)
+[policy-web](https://github.com/sash3939/RabbitMQ/assets/156709540/e689e9b4-9582-425a-a915-20bc6a7a505d)
+[cluster-cli](https://github.com/sash3939/RabbitMQ/assets/156709540/fc5c5dc2-4706-4e40-b4fb-8bcb4b540a21)
+[cluster-web](https://github.com/sash3939/RabbitMQ/assets/156709540/7108f24c-3384-41d2-a09b-557f338ec2ae)
+
 
 ## Дополнительные задания (со звёздочкой*)
 Эти задания дополнительные, то есть не обязательные к выполнению, и никак не повлияют на получение вами зачёта по этому домашнему заданию. Вы можете их выполнить, если хотите глубже шире разобраться в материале.
